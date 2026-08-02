@@ -1,0 +1,8 @@
+.idea/.gitignore
+.idea/book.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/student_manager.cpython-314.pyc
+model/__pycache__/student.cpython-314.pyc
